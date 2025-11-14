@@ -1,15 +1,3 @@
-Below is your **GitHub Description** and a complete, professional **README.md** for the project using the Iris dataset + Streamlit + scikit-learn + devcontainer.json.
-
----
-
-# **GitHub Short Description (≤300 characters)**
-
-Interactive Streamlit app for predicting Iris flower species using a trained RandomForest model. Includes sliders for input features, EDA visualizations, and seamless development through a DevContainer setup for reproducible environments.
-
----
-
-# **README.md**
-
 # 🌷 Simple Prediction App — Iris Classifier
 
 A Streamlit application that predicts the species of an Iris flower using a trained **RandomForestClassifier**.
